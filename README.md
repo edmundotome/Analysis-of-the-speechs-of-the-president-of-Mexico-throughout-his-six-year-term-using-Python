@@ -11,10 +11,13 @@ Libraries like **request** and **BeautifulSoup** are important to get and pull o
 From every year report from the Mexico's president we obtained a different png image.
 
 ## First government report
+![PrimerInformedeGobierno](https://user-images.githubusercontent.com/37748958/139569571-9b34373e-8598-42f2-94fb-585eefb69ce8.png)
 
 ## Second government report
+![SegundoInformedeGobierno](https://user-images.githubusercontent.com/37748958/139569575-e503e024-f3c8-48fc-a184-8f1f5d2755c3.png)
 
 ## Third government report
+![TercerInformedeGobierno](https://user-images.githubusercontent.com/37748958/139569586-f4c778f5-3846-4671-a9b9-166e731c944b.png)
 
 ##### Over time the discourse has changed, highlighting the increment/decrement of different words including the appearance of new ones.
 
